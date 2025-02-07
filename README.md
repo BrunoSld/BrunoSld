@@ -21,9 +21,9 @@
 
 **Ex-Owner Of Fr-Client** 💻🔍
 
-**Ex-Manager Bewz.pvp** 🏆💪
+**Ex-Manager jhale.club** 🏆💪
 
 **Ex-Developer CrompxWQ** 🌐🔓
 
-**Contact: https://discord.gg/8CsH7wjVVe**
+**Contact: https://discord.com/810954060924059648**
 
