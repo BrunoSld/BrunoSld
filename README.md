@@ -1,13 +1,3 @@
-<h1 align="center">Hi,👋 I am Pignolo04</h1>
-<h3 align="center">Community: https://discord.gg/furesv</h3>
-
-- 💻 I’m currently working on [Fure Finder (Free)](https://www.furesq.es/)
-
-- 📫 How to reach me **brunopignolobusiness@gmail.com**
-
-- 🔍 I’m currently learning [Java](https://www.java.com/es/)
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-brunosal.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
