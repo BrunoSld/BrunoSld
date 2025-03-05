@@ -9,10 +9,11 @@ My Skills
 
 
 Projects made
-New project will come soon 😏
-AntiVPN => A simple AntiVPN for Minecraft servers and proxies
-Duny Studios => Everything has changed. Now thinking what will be its purpose.
-Scarlex => Project is on hold
-Diavlo => I left the project to somebody else due to its lack of legality
-Fanszone => The project didn't work (lack of knowledge, no organization, no advertisement, etc)
-TargetPlay => I left the project to somebody else due to its lack of legality
+New project will come soon 
+
+PerkillVpn > The Best And Safe Vpn For Minecraft
+PerkillDevs > A Minecraft Devs Team
+Perkill Studio > A Normal Minecraft Developers Studio
+Perkill AntiVpn > A Minecraft AntiVpn Plugin (unfinished)
+NauticMC-Tool > Auto Farmer For Nauticmc.net
+FureMC-Client > A Great Minecraft Client For Developers (now closed)
