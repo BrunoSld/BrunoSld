@@ -3,7 +3,8 @@ What I'm currently doing?
 I am currently learning java, I am a python developer who is dedicated to making tools, solving tool problems, etc.
 I live in Uruguay I like cats and I lead a normal life as a teenager
 
-Skills:
+My Skills
+
 [![My Skills](https://skillicons.dev/icons?i=css,discord,py,html,java,github&perline=10)](https://skill-icons-builder.vercel.app/)
 
 
